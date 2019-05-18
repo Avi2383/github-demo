@@ -1,1 +1,6 @@
 Adding a new file using Gitdash using echo command with single >
+
+
+making changes after addinng file to staging area using git add function
+
+now making another change along with the start4.txt file. to see what git diff function will tell. would it tell only on start 3 file or would it tell the diff on start4 tile also???
